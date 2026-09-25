@@ -51,31 +51,28 @@
 </div>
 
 ### 👨‍💻 Developer Profile
+## 👨‍💻 About Me
 
-```python
-class Developer:
+Hi, I'm **Yuvan Sankarr** 👋
 
-    def __init__(self):
-        self.name = "Yuvan Sankarr"
-        self.role = "AI & Data Science Developer"
-        self.location = "India"
+🚀 I'm an aspiring **AI & Data Science Developer** passionate about building intelligent applications and innovative digital solutions.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "Data Science",
-            "Computer Vision"
-        ]
+🤖 I enjoy exploring Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development.
 
-        self.current_focus = [
-            "Building AI-powered applications",
-            "Developing real-time projects",
-            "Learning new technologies"
-        ]
+💻 I work with Python, Java, React, Node.js, and modern web technologies to transform ideas into real-world applications.
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
+🧠 I'm passionate about solving real-world problems through AI-powered solutions, automation, and data-driven technologies.
 
-me = Developer()
-me.say_hi()
+🌱 Currently, I'm focused on developing real-time projects, improving my technical skills, and exploring emerging technologies.
+
+### 🎯 My Interests
+- Artificial Intelligence & Machine Learning
+- Data Science & Computer Vision
+- Full Stack Web Development
+- AI-Powered Applications
+- Real-Time Software Solutions
+
+### 💡 My Goal
+To become an innovative developer who builds intelligent, impactful, and user-friendly technology solutions.
+
+✨ **"Turning Ideas Into Intelligent Solutions."**
